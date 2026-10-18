@@ -1,3 +1,5 @@
+import React from 'react';
+
 export default function ShoppingItem({ item, onDelete }) {
   return (
     <li className="shopping-item">

@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from 'react';
 import ShoppingItem from './components/ShoppingItem';
 
 export default function App() {
